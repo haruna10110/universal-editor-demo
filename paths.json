@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/wknd/:/",
-    "/content/wknd/configuration:/.helix/config.json",
-    "/content/wknd/metadata:/metadata.json"
+    "/content/universal-editor-demo/:/",
+    "/content/universal-editor-demo/configuration:/.helix/config.json",
+    "/content/universal-editor-demo/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/wknd/"
+    "/content/universal-editor-demo/"
   ]
 }
